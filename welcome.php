@@ -15,7 +15,7 @@ $cookie_name = "email-and-name";
         $pieces = explode(",", $_COOKIE[$cookie_name]);
         $name = $pieces[0];
         $email = $pieces[1];
-        echo "Hi, " . $name . "! You recently signed up with the email address: " . $email .  ". Thank you! ";
+        echo "<h2>Hi, " . $name . "! You recently signed up with the email address: " . $email .  ". Thank you!</h2> ";
 
 
       ?>

@@ -1,6 +1,7 @@
 <html>
 <head>
-<title>Registering information</title>
+  <title>Registering information</title>
+  <link rel="stylesheet" type="text/css" href="welcome.css">
 </head>
 <body>
 <?php
@@ -19,7 +20,7 @@
 
        endwhile;
 
-       echo "Thank you " . $name . "! You have been registered for lifetime of happiness.";
+       echo "<h2>Thank you " . $name . "! You have been registered for lifetime of happiness.</h2>";
 
        $cookie_name = "email-and-name";
        $cookie_value = $email . "," . $name;
