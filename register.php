@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Registering information</title>
-  <link rel="stylesheet" type="text/css" href="welcome.css">
+  <link rel="stylesheet" type="text/css" href="css/welcome.css">
 </head>
 <body>
 <?php

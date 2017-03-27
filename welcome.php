@@ -4,7 +4,7 @@ $cookie_name = "email-and-name";
 <html>
 <head>
   <title>Quiz 2</title>
-  <link rel="stylesheet" type="text/css" href="welcome.css">
+  <link rel="stylesheet" type="text/css" href="css/welcome.css">
 </head>
 <body>
 
