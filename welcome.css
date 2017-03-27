@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'neue-helvetica', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #234577;
+  font-weight: 300;
+
+}
+
+input {
+  padding: 4px 5px 6px;
+  margin: 8px;
+  width: 250px;
+}
+
+#button {
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  border: none;
+  margin: 14px 0 28px;
+  background-color: #234577;
+  font-family: 'neue-helvetica', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+p {
+  font-weight: 300;
+  font-family: 'neue-helvetica', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 15px;
+  color: #234577;
+}
